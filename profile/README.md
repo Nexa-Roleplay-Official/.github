@@ -13,9 +13,8 @@
 | Repo | Purpose |
 |------|---------|
 | [nexa-resources](https://github.com/Nexa-Roleplay-Official/nexa-resources) | Server scripts + config (Qbox, ox_inventory, custom jobs) |
-| [nexa-stream-git](https://github.com/Nexa-Roleplay-Official/nexa-stream-git) | Stream assets — clothing, MLO, weapons, visuals |
+| [nexa-stream-git](https://github.com/Nexa-Roleplay-Official/nexa-stream-git) | Stream assets — clothing, MLO, peds, weapons, visuals |
 | [modder-vehicles](https://github.com/Nexa-Roleplay-Official/modder-vehicles) | Custom vehicle packs + handling |
-| [modder-peds](https://github.com/Nexa-Roleplay-Official/modder-peds) | Custom ped packs |
 | [nexa-assets](https://github.com/Nexa-Roleplay-Official/nexa-assets) | Public CDN assets (banners, etc.) |
 | [nexa-db-backup](https://github.com/Nexa-Roleplay-Official/nexa-db-backup) | MySQL backup tool (private) |
 
