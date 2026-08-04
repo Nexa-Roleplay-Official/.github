@@ -4,7 +4,7 @@
 
 # Nexa Roleplay Official
 
-**FiveM Qbox roleplay server** — scripts, stream assets, custom vehicles, peds, and deployment tools.
+**FiveM Qbox roleplay server** — scripts, stream assets, custom vehicles, peds, MLO, and deployment tools.
 
 </div>
 
@@ -13,10 +13,11 @@
 | Repo | Purpose |
 |------|---------|
 | [nexa-resources](https://github.com/Nexa-Roleplay-Official/nexa-resources) | Server scripts + config (Qbox, ox_inventory, custom jobs) |
-| [nexa-stream-git](https://github.com/Nexa-Roleplay-Official/nexa-stream-git) | Stream assets — clothing, MLO, peds, weapons, visuals |
-| [modder-vehicles](https://github.com/Nexa-Roleplay-Official/modder-vehicles) | Custom vehicle packs + handling |
-| [nexa-assets](https://github.com/Nexa-Roleplay-Official/nexa-assets) | Public CDN assets (banners, etc.) |
+| [nexa-stream-git](https://github.com/Nexa-Roleplay-Official/nexa-stream-git) | Stream assets — clothing, peds, weapons, vehicles, visuals |
+| [nexa-mlo-git](https://github.com/Nexa-Roleplay-Official/nexa-mlo-git) | MLO / map interiors |
+| [nexa-assets](https://github.com/Nexa-Roleplay-Official/nexa-assets) | Public CDN assets (banners, logos) |
 | [nexa-db-backup](https://github.com/Nexa-Roleplay-Official/nexa-db-backup) | MySQL backup tool (private) |
+| [server-data](https://github.com/Nexa-Roleplay-Official/server-data) | Server deployment / txAdmin layout (private) |
 
 ## Stack
 
